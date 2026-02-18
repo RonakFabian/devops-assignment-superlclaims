@@ -16,7 +16,7 @@ services:
   worker:
     build: ./backend
     command: celery -A worker worker --loglevel=info
-    environment:
+    environment: #These env are for local testing only, in prod we inject them from GitHub Actions into the worker tasks
       - REDIS_URL=redis://redis:6379/0
       - LOG_FILE=/app/log_celery.txt
       - TASK_DELAY=10
