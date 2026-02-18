@@ -1,9 +1,9 @@
 ## DevOps Assessment Assignment
 
-#Diagram:
-![Alt text]([image-url](https://github.com/RonakFabian/devops-assignment-superlclaims/diagram.jpg))
+# Diagram:
+![Alt text]([image-url](https://github.com/RonakFabian/devops-assignment-superlclaims/blob/main/diagram.jpg))
 
-#Instructions
+# Instructions
 ```
 To run locally:
 
@@ -18,7 +18,7 @@ To run locally:
 
 ```
 
-#Journey
+# Journey
 ```
 ### Fill Complete Journey
 
