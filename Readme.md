@@ -1,7 +1,8 @@
 ## DevOps Assessment Assignment
 
 # Diagram:
-![Alt text]([image-url](https://github.com/RonakFabian/devops-assignment-superlclaims/blob/main/diagram.jpg))
+![Architecture Diagram](https://github.com/RonakFabian/devops-assignment-superlclaims/blob/main/diagram.jpg)
+
 
 # Instructions
 ```
